@@ -27,9 +27,9 @@ const config: HardhatUserConfig = {
   defaultNetwork: "goerli",
   networks: {
     goerli: {
-      url: `https://eth-goerli.alchemyapi.io/v2/BBnHSrW7D91OG8vSfCW5z_g4n4wI9a1k`,
+      url: `https://eth-goerli.alchemyapi.io/v2/AlchemyAPIKey`,
       accounts: [
-        `ca4418b205a9cdc7c3237020e50d951cc6ce486a6725f7f2428f96b8ed4d54d7`,
+        `MataMask Private Key`,
       ],
     },
   },
